@@ -6,7 +6,7 @@
 
 🔭 I'm currently studying to become a Full Stack Junior, see my progress in this [repository](https://github.com/tiago-jeronimo/trybe.exercicios)  
 <br>
-<img align="right" width="55%" style="margin-top:-20px" src="https://raw.githubusercontent.com/gist/ankit986/5726427cd7e9f181ec04e3e176b2dbcc/raw/6e6af77cec50089a21bd287659150e8a842bff98/hello.gif"/>
+<img align="right" width="45%" style="margin-top:-20px" src="https://raw.githubusercontent.com/gist/ankit986/5726427cd7e9f181ec04e3e176b2dbcc/raw/6e6af77cec50089a21bd287659150e8a842bff98/hello.gif"/>
 
 
   <a href="https://github.com/tiago-jeronimo">
