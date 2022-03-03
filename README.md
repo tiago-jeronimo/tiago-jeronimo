@@ -5,8 +5,8 @@
 <br> 
 
 🔭 I'm currently studying to become a Full Stack Junior, see my progress in this [repository](https://github.com/tiago-jeronimo/trybe.exercicios)  
-<br>
-<img align="right" width="40%" style="margin-top:-20px" src="https://c.tenor.com/y1yKziqaf50AAAAd/nice.gif"/>
+<br><br>
+<img align="right" width="50%" style="margin-top:-20px" src="https://c.tenor.com/y1yKziqaf50AAAAd/nice.gif"/>
 
 
   <a href="https://github.com/tiago-jeronimo">
