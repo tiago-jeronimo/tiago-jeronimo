@@ -1,7 +1,7 @@
 
   <h1><strong>Hello, world! 👋 I'm Tiago Jerônimo </strong></h1>
 
-<img align="center" width="100%" src="https://1099028l.ha.azioncdn.net/image/manutencao/manutencao.gif"/>
+<img align="center" width="100%" src="tiago-jeronimo.gif"/>
 
 💡 Software development, Liturgy and reading.
 <br> 
