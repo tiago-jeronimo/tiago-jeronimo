@@ -8,7 +8,7 @@ Tenho 19 anos e atualmente estudo na <a href="https://www.betrybe.com/"alt="tryb
 🧑‍💻  Veja meu progresso nos estudos neste  <a href="https://github.com/tiago-jeronimo/trybe.exercicios"> repositório </a>
 </p>
 
-✉️ Se quiser, pode me enviar um <a href="mailto:tiago.batmansz@gmail.com" target="_blank">e-mail </a>
+✉️ Se quiser, pode me enviar um <a href="mailto:tiago.batmansz@gmail.com?subject=Contact">e-mail </a>
 
    Se conecte comigo 👇
 
