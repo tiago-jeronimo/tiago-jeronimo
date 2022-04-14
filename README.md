@@ -3,12 +3,12 @@
 <p align="left"> 
 Olá! Me chamo <b>Tiago Jerônimo </b>👋,<br> Sou um cearense que ama liturgia, filosofia e <i>coding</i>.
   <br>
-Tenho 19 anos e atualmente estudo na <a href="mailto:dayvisonsil98@gmail.com"alt="Gmail"> Trybe </a> para me tornar um Full Stack Junior. 
+Tenho 19 anos e atualmente estudo na <a href="https://www.betrybe.com/"alt="trybe"> Trybe </a> para me tornar um Full Stack Junior. 
   <br><br>
 🧑‍💻  Veja meu progresso nos estudos neste  <a href="https://github.com/tiago-jeronimo/trybe.exercicios"> repositório </a>
 </p>
 
-✉️ Se quiser, pode me enviar um <a href="https://www.facebook.com/johnatas.henrique.75/" target="_blank">e-mail </a>
+✉️ Se quiser, pode me enviar um <a href="mailto:tiago.batmansz@gmail.com" target="_blank">e-mail </a>
 
    Se conecte comigo 👇
 
