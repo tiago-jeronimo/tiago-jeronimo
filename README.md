@@ -1,16 +1,18 @@
+<img src="https://cdn.dribbble.com/users/511295/screenshots/2629099/octocat-wave-dribbble.gif" min-width="400px" max-width="400px" width="450px" align="right" alt="Computador iuriCode">
 
-  <h1><strong>Hello, world! 👋 I'm Tiago Jerônimo </strong></h1>
+<p align="left"> 
+Olá! Me chamo <b>Tiago Jerônimo </b>👋,<br> Sou um cearense que ama liturgia, filosofia e <i>coding</i>.
+  <br>
+Tenho 19 anos e atualmente estudo na <a href="mailto:dayvisonsil98@gmail.com"alt="Gmail"> Trybe </a> para me tornar um Full Stack Junior. 
+  <br><br>
+🧑‍💻  Veja meu progresso nos estudos neste  <a href="https://github.com/tiago-jeronimo/trybe.exercicios"> repositório </a>
+</p>
 
-<img align="center" width="100%" src="myArqui.png"/>
-<br>
-<h1> A little about myself </h1>
-💡 Software development, Liturgy and reading.
-<br> 
-🔭 I am currently studying to become a Full Stack Junior, see my progress in studies in this <a href="https://github.com/tiago-jeronimo/trybe.exercicios">repository</a>
-<br>
-<br>
-<div align="center">
-  <a href="https://github.com/tiago-jeronimo">
-  <img height="190em" src="https://github-readme-stats.vercel.app/api?username=tiago-jeronimo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiago-jeronimo&layout=compact&langs_count=7&theme=dark"/>
-</div>
+✉️ Se quiser, pode me enviar um <a href="https://www.facebook.com/johnatas.henrique.75/" target="_blank">e-mail </a>
+
+   Se conecte comigo 👇
+
+<a href="https://www.facebook.com/johnatas.henrique.75/" target="_blank"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" width="90px"></a>
+<a href="https://www.linkedin.com/in/johnatashenrique/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="90px">
+</a>
