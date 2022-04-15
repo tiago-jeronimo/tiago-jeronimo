@@ -12,7 +12,7 @@ Tenho 19 anos e atualmente estudo na <a href="https://www.betrybe.com/"alt="tryb
 
    Se conecte comigo 👇
 
-<a href="https://www.facebook.com/johnatas.henrique.75/" target="_blank"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" width="90px"></a>
-<a href="https://www.linkedin.com/in/johnatashenrique/" target="_blank">
+<a href="https://www.instagram.com/the.jeronimo/" target="_blank"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" width="90px"></a>
+<a href="https://www.linkedin.com/in/tiago-jer%C3%B4nimo-a37093226/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="90px">
 </a>
