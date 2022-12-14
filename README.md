@@ -1,21 +1,17 @@
 <div align="center">
 <img src="https://raw.githubusercontent.com/tiago-jeronimo/tiago-jeronimo/master/Frase%20com%20Folhagem%20de%20Outono%20Ilustrada%20Capa%20para%20Facebook.gif" align="center" style="width: 100%" />
 </div>  
-  
-<p align="left"> 
-<h3>Olá! Me chamo <b>Tiago Jerônimo </b>👋,<br> Sou um cearense que ama liturgia, filosofia e <i>coding</i>.</h3>
-  <br>
-Tenho 19 anos e atualmente estudo na <a href="https://www.betrybe.com/"alt="trybe"> Trybe </a> para me tornar um Full Stack Junior. 
-  <br><br>
-🧑‍💻  Veja meu progresso nos estudos neste  <a href="https://github.com/tiago-jeronimo/trybe.exercicios"> repositório </a>
-</p>
-
+<br> <br>   
+<h1>Olá! 👋  Me chamo <i>Tiago Jerônimo</i></h1>
+<br>
+Sou um cearense que ama liturgia, filosofia e <i>coding</i>.
+<br> 
 ✉️ Se quiser, pode me enviar um <a href="mailto:tiago.batmansz@gmail.com?subject=Contact">e-mail </a>
   <br>
   <br>
   
   
-  ## Minhas Skills
+  ## Minhas Skills ⭐⭐⭐
 <table><tr><td valign="top" width="33%">
 
 ![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -42,7 +38,7 @@ Tenho 19 anos e atualmente estudo na <a href="https://www.betrybe.com/"alt="tryb
 
 <br>
 
-<h4>Se conecte comigo 👇 </h4>  
+<h2>Se conecte comigo 🌐 </h2>  
 <div align="left">
 <a href="https://github.com/tiago-jeronimo" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
