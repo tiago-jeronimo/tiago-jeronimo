@@ -1,17 +1,10 @@
-<div align="center">
-<img src="https://raw.githubusercontent.com/tiago-jeronimo/tiago-jeronimo/master/Frase%20com%20Folhagem%20de%20Outono%20Ilustrada%20Capa%20para%20Facebook.gif" align="center" style="width: 100%" />
-</div>  
-<br> <br>   
-<h1>Olá! 👋  Me chamo <i>Tiago Jerônimo</i></h1>
-<br>
+<h2>Olá! 👋  Me chamo <i>Tiago Jerônimo</i></h2>
 Sou um cearense que ama liturgia, filosofia e <i>coding</i>.
 <br> 
 ✉️ Se quiser, pode me enviar um <a href="mailto:tiago.batmansz@gmail.com?subject=Contact">e-mail </a>
   <br>
-  <br>
   
-  
-  ## Minhas Skills ⭐⭐⭐
+  ### Minhas Skills ⭐⭐⭐
 <table><tr><td valign="top" width="33%">
 
 ![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -36,9 +29,7 @@ Sou um cearense que ama liturgia, filosofia e <i>coding</i>.
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 </table>
 
-<br>
-
-<h2>Se conecte comigo 🌐 </h2>  
+<h3>Se conecte comigo 🌐 </h3>  
 <div align="left">
 <a href="https://github.com/tiago-jeronimo" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
