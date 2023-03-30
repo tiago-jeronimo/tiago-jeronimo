@@ -16,7 +16,7 @@ export default const thisIsMe = {
 		years: 21
 		food: { milk: false, meat barbecue: 'oh, yeah! 😄', shrimp: 404 },
 		country: getcountry('Brasil'),
-		printLoves: () => console.log(['Débora', 'read',  'movies',  'philosophy',  'liturgy'].join(', ')),
+		printLoves: () => console.log(['Débora', 'read',  'movies',  'philosophy',  'liturgy'].join(', '))
 
 }	
 
