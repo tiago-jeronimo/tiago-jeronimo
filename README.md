@@ -1,10 +1,30 @@
-<h2>Olá! 👋  Me chamo <i>Tiago Jerônimo</i></h2>
-Sou um cearense que ama liturgia, filosofia e <i>coding</i>.
-<br> 
-✉️ Se quiser, pode me enviar um <a href="mailto:tiago.batmansz@gmail.com?subject=Contact">e-mail </a>
-  <br>
+## Olá 👋 , esse é meu perfil 
+
+Me chamo Tiago Jerônimo, estudante em **Superior de Tecnologia em Desenvolvimento Back-end** pela Universidade Pitagoras. Sou ex-estudante de Desenvolvimento Web Full Stack pela Trybe.  
+ <p> 
+🖥️ Vamos conversar, me envie um <a href="mailto:dev.tiagojeronimo@gmail.com?subject=Contact">e-mail </a>  
+</p>
   
-  ### Minhas Skills ⭐⭐⭐
+
+###  Mais sobre mim
+
+```  js
+
+export default const thisIsMe = {
+		firstName: Tiago,
+		lastName: Jerônimo,
+		years: 21
+		food: { milk: false, meat barbecue: 'oh, yeah! 😄', shrimp: 404 },
+		country: getcountry('Brasil'),
+		printLoves: () => console.log(['Débora', 'read',  'movies',  'philosophy',  'liturgy'].join(', ')),
+
+}	
+
+```
+
+
+  ## Habilidades
+  
 <table><tr><td valign="top" width="33%">
 
 ![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -29,6 +49,10 @@ Sou um cearense que ama liturgia, filosofia e <i>coding</i>.
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 </table>
 
+
+[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=tiago-jeronimo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <h3>Se conecte comigo 🌐 </h3>  
 <div align="left">
 <a href="https://github.com/tiago-jeronimo" target="_blank">
@@ -44,3 +68,4 @@ Sou um cearense que ama liturgia, filosofia e <i>coding</i>.
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
 </div>  
+
