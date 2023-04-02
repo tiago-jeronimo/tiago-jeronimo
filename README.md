@@ -50,8 +50,11 @@ export default const thisIsMe = {
 </table>
 
 
-[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=tiago-jeronimo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
+<div align="center">
+<a href="https://github.com/tiago-jeronimo">
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiago-jeronimo&theme=dracula&hide_border=false&&layout=compact"/>
+</a>
+</div>
 
 <h3>Se conecte comigo 🌐 </h3>  
 <div align="left">
