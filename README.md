@@ -1,6 +1,6 @@
 ## Olá 👋 , esse é meu perfil 
 
-Me chamo Tiago Jerônimo, estudante em **Superior de Tecnologia em Desenvolvimento Back-end** pela Universidade Pitagoras. Sou ex-estudante de Desenvolvimento Web Full Stack pela Trybe.  
+Me chamo Tiago Jerônimo, e esse é meu perfil, seja bem vindo!
  <p> 
 🖥️ Vamos conversar, me envie um <a href="mailto:dev.tiagojeronimo@gmail.com?subject=Contact">e-mail </a>  
 </p>
