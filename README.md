@@ -13,7 +13,7 @@ Me chamo Tiago Jerônimo, e esse é meu perfil, seja bem vindo!
 export default const thisIsMe = {
 		firstName: Tiago,
 		lastName: Jerônimo,
-		years: 21
+		years: 21,
 		food: { milk: false, meat barbecue: 'oh, yeah! 😄', shrimp: 404 },
 		country: getcountry('Brasil'),
 		printLoves: () => console.log(['Débora', 'read',  'movies',  'philosophy',  'liturgy'].join(', '))
