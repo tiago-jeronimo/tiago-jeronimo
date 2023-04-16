@@ -17,7 +17,7 @@ export default const thisIsMe = {
 		food: { milk: false, meat barbecue: 'oh, yeah! 😄', shrimp: 404 },
 		country: getcountry('Brasil'),
 		printLoves: () => console.log(['Débora', 'read',  'movies',  'philosophy',  'liturgy'].join(', '))
-		}	
+		};
 
 ```
 
