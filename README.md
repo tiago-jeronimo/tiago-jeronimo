@@ -11,8 +11,8 @@ Me chamo Tiago Jerônimo, estudante em *Superior de Tecnologia em Desenvolviment
 ```  js
 
 export default const thisIsMe = {
-		firstName: Tiago,
-		lastName: Jerônimo,
+		firstName: 'Tiago',
+		lastName: 'Jerônimo',
 		years: 21,
 		food: { milk: false, meat barbecue: 'oh, yeah! 😄', shrimp: 404 },
 		country: getcountry('Brasil'),
