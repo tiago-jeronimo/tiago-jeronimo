@@ -1,4 +1,4 @@
-## Olá 👋, bem vindo ao meu perfil!
+## Olá 👋 , bem vindo ao meu perfil!
 
 Me chamo Tiago Jerônimo, estudante em *Superior de Tecnologia em Desenvolvimento Back-end* pela Universidade Pitagoras. Sou ex-aluno de Desenvolvimento Web Full Stack pela Trybe. Amante de tecnologia, paixão por back-end ♥️
  <p> 
