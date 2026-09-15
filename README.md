@@ -2,7 +2,7 @@
 
 Desenvolvedor de software
 
-Node.js, TypeScript, Next.js, PostgreSQL e Docker** formam a base da minha stack.
+**Node.js, TypeScript, Next.js, PostgreSQL e Docker** formam a base da minha stack.
 
 Experiência com aplicações web, APIs, automações, bancos de dados, servidores e infraestrutura.
 
