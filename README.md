@@ -1,18 +1,21 @@
 ✠✠✠
 
-Desenvolvedor de software
+### Software Engineer
 
-**Node.js, TypeScript, Next.js, PostgreSQL e Docker** formam a base da minha stack.
+Desenvolvimento de software, APIs e automações.
 
-Experiência com aplicações web, APIs, automações, bancos de dados, servidores e infraestrutura.
+**TypeScript · Node.js · Next.js · PostgreSQL · Docker**
+
+Experiência com bancos de dados, integração de sistemas e infraestrutura de TI.
 
 Graduando em **Engenharia de Software**.
 
-`Node.js` · `TypeScript` · `JavaScript` · `Fastify` · `Express` · `React` · `Next.js` · `React Native` · `Tailwind CSS` · `PostgreSQL` · `MySQL` · `Firebird` · `Oracle` · `Neo4j` · `Prisma` · `Sequelize` · `Docker` · `Proxmox` · `Linux` · `Windows Server` · `pfSense` · `Git` · `Python`
+`JavaScript` · `React` · `React Native` · `Fastify` · `Express` · `Tailwind CSS` · `Prisma` · `Sequelize` · `MySQL` · `Firebird` · `SQL Server` · `Oracle` · `Neo4j` · `Python` · `Linux` · `Windows Server` · `Proxmox` · `pfSense` · `Active Directory` · `Git`
 
 ```text
 ~$ ora et digita
 ```
+
 ✠✠✠
 
 [LinkedIn](http://linkedin.com/in/eusoujeronimo) · [E-mail](mailto:o.tiago.jeronimo@gmail.com)
